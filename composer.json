@@ -1,0 +1,17 @@
+{
+    "name": "proyectodb/tienda-db",
+    "description": "Proyecto final de bases de datos en la Universidad EAFIT.",
+    "authors": [
+        {
+            "name": "Ricardo Gottheil",
+            "email": "ricardogottheil@gmail.com"
+        },
+     	{
+            "name": "Juan Gomez",
+            "email": "jgomez40@eafit.edu.co"
+        }
+    ],
+    "require": {
+    	"php":">=7.0.0"
+    }
+}

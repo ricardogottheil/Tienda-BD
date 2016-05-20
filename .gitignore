@@ -1,0 +1,8 @@
+
+# COMPOSER
+# Para generar de nuevo estos archivos hay que usar el comando "php composer.phar update"
+composer.lock
+composer.phar
+
+# VENDOR
+/vendor/
