@@ -7,9 +7,9 @@ Integrantes
 
 Para traer todas la dependencias de composer, se ejecuta el siguiente comando:
 ```
-#Primera vez
-php composer.phar install 
+# Primera vez
+$ php composer.phar install 
 
-#Con dependencias ya instaladas
-php composer.phar update 
+# Con dependencias ya instaladas
+$ php composer.phar update 
 ```
