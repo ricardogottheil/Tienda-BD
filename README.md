@@ -18,9 +18,14 @@ Estructura para el proyecto:
 ```
 NombreSitio/
 |--app/
+|  |--Models/
+|  
 |--config/
+|
 |--public/
+|
 |--views/
+|
 |--composer.json
 
 ```
