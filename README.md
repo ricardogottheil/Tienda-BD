@@ -13,3 +13,14 @@ $ php composer.phar install
 # Con dependencias ya instaladas
 $ php composer.phar update 
 ```
+
+Estructura para el proyecto:
+```
+NombreSitio/
+|--app/
+|--config/
+|--public/
+|--views/
+|--composer.json
+
+```
