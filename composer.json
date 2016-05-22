@@ -12,6 +12,8 @@
         }
     ],
     "require": {
-    	"php":">=7.0.0"
+    	"php":">=7.0.0",
+        "illuminate/database":"==5.2.21"
     }
+
 }
