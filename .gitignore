@@ -7,5 +7,5 @@ composer.phar
 # VENDOR
 /vendor/
 
-#Config 
+# CONFIG 
 /config/env.php
