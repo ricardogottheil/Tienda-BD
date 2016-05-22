@@ -14,6 +14,14 @@ $ php composer.phar install
 $ php composer.phar update 
 ```
 
+Para generar de nuevo el autoload, se ejecuta el siguiente comando:
+
+```
+$ php composer.phar dump-autoload
+```
+
+----
+
 Estructura para el proyecto:
 ```
 NombreSitio/
