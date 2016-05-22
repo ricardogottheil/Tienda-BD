@@ -6,3 +6,6 @@ composer.phar
 
 # VENDOR
 /vendor/
+
+#Config 
+/config/env.php
