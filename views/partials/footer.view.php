@@ -31,6 +31,11 @@
   $(document).ready(function(){
       $(".button-collapse").sideNav();
       $('.slider').slider({full_width: true, indicators: false, interval: 7000});
+      $('.datepicker').pickadate({
+        selectMonths: true, // Creates a dropdown to control month
+        selectYears: 15 // Creates a dropdown of 15 years to control year
+      });
+      $('select').material_select();
   });
 </script>
 </body>
