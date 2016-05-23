@@ -2,4 +2,4 @@
 
 require_once '../config/app.php';
 
-echo "Hola mundo";
+require_once APP_PATH . '/views/pages/index.view.php';

@@ -9,3 +9,7 @@ composer.phar
 
 # CONFIG 
 /config/env.php
+
+# APACHE
+access_log
+error_log
